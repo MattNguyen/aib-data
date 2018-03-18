@@ -20,14 +20,12 @@ Our software development teams are broken up into [Tendermint](https://github.co
 * Experience working with distributed teams.
 
 ## What your primary responsibilities will be:
-* Work with project partners within the blockchain ecosystem to design and implement blockchain solutions using the Cosmos-Sdk and Tendermint Core.
-* Improve the SDK codebase by committing DRY, well tested code based on feedback from the ecosystem.
-* Work with the SDK team to triage tickets and move the [project](https://github.com/cosmos/cosmos-sdk) forward.
-* Review pull requests and provide valuable feedback to members of the team and open source contributors.
+* Work with project partners to design architectures for successfull blockchain applications.
+* Support project partners in the implementation of their chosen architectures.
+* Provide feedback to SDK team based on the needs of the partner projects.
 * Mentor junior engineers and support the growth and health of the team.
 * Help with developer adoption by supporting projects using the SDK.
 * Participate in developer discussion forums and work to improve the usability based on user feedback.
-* Promote the SDK by publishing blog posts and guides.
 
 ## What we offer:
 * The opportunity to build the future of the internet.
