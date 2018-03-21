@@ -221,7 +221,7 @@
       "children": ["hub-gaia-4", "gui-0-6"],
       "span": 3,
       "date": "",
-      "notes": "Cosmos SDK 0.12 'Double Chubble' is a two-week sprint to refactor the SDK and to implement cross-chain visibility and transfer",
+      "notes": "Cosmos SDK 0.12 'Double Hubble' is a two-week sprint to refactor the SDK and to implement cross-chain visibility and transfer",
       "url": "https://github.com/cosmos/cosmos-sdk/projects/16 "
     },
     {
