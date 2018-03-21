@@ -53,7 +53,7 @@ To achieve spam-prevention, all transactions on the Cosmos Hub must pay a fee in
 ### How does one exchange currencies in this system?
 
 For tokens outside the Cosmos system, they can only be introduced via pegged
-derivatives. Read about interoperating with existing blockchains here: [Peggy]{https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f).
+derivatives. Read about interoperating with existing blockchains here: [Peggy](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f).
 
 ``` 
            _ peg smart contract
